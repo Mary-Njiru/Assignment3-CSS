@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+    border-radius: 20px;
+}
+#form{
+    background-color: azure;
+    border-radius: 30px;
+    text-align: center;
+    border: 1px;
+    min-height: 100vh;
+    position: absolute; top: 2px; right: 2px;
+    width: 50%;
+}
+
+
+button{
+    border-radius: 5px;
+    width: 50%;
+    background-color: blue;
+    border: 1px solid;
+    min-height: 10vh;
+}
+
+#ima1{
+   width: 30px;
+   height: 40px;
+}
+
+#ima2{
+    width: 30px;
+    height: 40px;
+}
+#ima3{
+    width: 30px;
+    height: 40px;
+}
+#ima4{
+    width: 30px;
+    height: 40px;
+}
+#ima5{
+    width: 30px;
+    height: 40px;
+}
+h2{
+    font-size: 150%;
+}
